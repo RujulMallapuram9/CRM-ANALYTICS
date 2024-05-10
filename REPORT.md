@@ -1,4 +1,4 @@
-# CRM ANALYTICS
+# DATA ANALYTICS
 
 ## CRM Analytics
 CRM analytics are data that demonstrates a company’s sales and customer service performance. CRM analytics also presents customer data that we can use to make smarter business decisions.
